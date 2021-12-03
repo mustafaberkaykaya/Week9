@@ -1,0 +1,24 @@
+
+/* Class = "UITabBarItem"; title = "WebPage"; ObjectID = "1jP-MR-ujK"; */
+"1jP-MR-ujK.title" = "WebPage";
+
+/* Class = "UITabBarItem"; title = "Itemmmmm"; ObjectID = "AFV-Wk-gxc"; */
+"AFV-Wk-gxc.title" = "Itemmmmm";
+
+/* Class = "UILabel"; text = "Location:"; ObjectID = "DP1-QR-uTT"; */
+"DP1-QR-uTT.text" = "Location:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Nf0-e1-ehV"; */
+"Nf0-e1-ehV.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Item3"; ObjectID = "dQQ-Yk-4Xa"; */
+"dQQ-Yk-4Xa.title" = "Item3";
+
+/* Class = "UITextField"; placeholder = "Select a language."; ObjectID = "fVT-q8-DAd"; */
+"fVT-q8-DAd.placeholder" = "Select a language.";
+
+/* Class = "UILabel"; text = "Surname:"; ObjectID = "ieU-pb-dIF"; */
+"ieU-pb-dIF.text" = "Surname:";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "k0H-3h-pwT"; */
+"k0H-3h-pwT.text" = "Name:";

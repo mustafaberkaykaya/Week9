@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  Week9
+
+  Created by Mustafa Berkay Kaya on 2.12.2021.
+  
+*/
+"Name" = "Nombre";
+"Surname" = "Apellido";
+"Location" = "Localización";
